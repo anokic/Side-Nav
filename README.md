@@ -5,4 +5,4 @@ Side navigation and hamburger made with **HTML**, **CSS** and pure **JavaScript*
 ![Hamburger](https://i.ibb.co/GJHZ1rW/screencapture-127-0-0-1-58826-2019-09-23-21-28-23.png)
 
 
-![Hamburger1](https://i.ibb.co/yFWQZ5C/screencapture-127-0-0-1-58826-2019-09-23-21-28-18.png)
+![Navigation](https://i.ibb.co/yFWQZ5C/screencapture-127-0-0-1-58826-2019-09-23-21-28-18.png)
