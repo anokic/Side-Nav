@@ -6,3 +6,5 @@ Side navigation and hamburger made with **HTML**, **CSS** and pure **JavaScript*
 
 
 ![Navigation](https://i.ibb.co/yFWQZ5C/screencapture-127-0-0-1-58826-2019-09-23-21-28-18.png)
+
+Hamburger and navigation/menu animation 
